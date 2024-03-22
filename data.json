@@ -1,0 +1,78 @@
+{
+    "2023": {
+        "Muharram": {
+            "hijriDate": "1444-00-26",
+            "gregorianDate": "2022-07-30"
+        },
+        "Ashura": {
+            "hijriDate": "1444-00-27",
+            "gregorianDate": "2022-08-07"
+        },
+        "Shab_e_Miraj": {
+            "hijriDate": "1444-01-21",
+            "gregorianDate": "2023-02-18"
+        },
+        "Shab_e_Barat": {
+            "hijriDate": "1444-03-04",
+            "gregorianDate": "2023-03-07"
+        },
+        "Ramadan": {
+            "hijriDate": "1444-04-23",
+            "gregorianDate": "2023-03-23"
+        },
+        "Laylat_al_Qadr": {
+            "hijriDate": "1444-06-11",
+            "gregorianDate": "2023-04-18"
+        },
+        "Eid_ul_Fitr": {
+            "hijriDate": "1444-07-12",
+            "gregorianDate": "2023-04-21"
+        },
+        "Hajj": {
+            "hijriDate": "1445-00-23",
+            "gregorianDate": "2023-06-27"
+        },
+        "Eid_ul_Adha": {
+            "hijriDate": "1445-00-24",
+            "gregorianDate": "2023-06-28"
+        }
+    },
+    "2024": {
+        "Muharram": {
+            "hijriDate": "1445-00-16",
+            "gregorianDate": "2023-07-19"
+        },
+        "Ashura": {
+            "hijriDate": "1445-00-17",
+            "gregorianDate": "2023-07-29"
+        },
+        "Shab_e_Miraj": {
+            "hijriDate": "1445-01-11",
+            "gregorianDate": "2024-02-08"
+        },
+        "Shab_e_Barat": {
+            "hijriDate": "1445-02-25",
+            "gregorianDate": "2024-02-25"
+        },
+        "Ramadan": {
+            "hijriDate": "1445-04-14",
+            "gregorianDate": "2024-03-12"
+        },
+        "Laylat_al_Qadr": {
+            "hijriDate": "1445-06-02",
+            "gregorianDate": "2024-04-07"
+        },
+        "Eid_ul_Fitr": {
+            "hijriDate": "1445-07-03",
+            "gregorianDate": "2024-04-11"
+        },
+        "Hajj": {
+            "hijriDate": "1446-00-13",
+            "gregorianDate": "2024-06-15"
+        },
+        "Eid_ul_Adha": {
+            "hijriDate": "1446-00-14",
+            "gregorianDate": "2024-06-16"
+        }
+    }
+}
